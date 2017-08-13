@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="12997" started-at="2017-08-13T15:35:00Z" finished-at="2017-08-13T15:35:13Z">
+  <suite name="Suite" duration-ms="12865" started-at="2017-08-13T15:59:29Z" finished-at="2017-08-13T15:59:41Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="12997" started-at="2017-08-13T15:35:00Z" finished-at="2017-08-13T15:35:13Z">
+    <test name="Test" duration-ms="12865" started-at="2017-08-13T15:59:29Z" finished-at="2017-08-13T15:59:41Z">
       <class name="demoTest.LogIn">
-        <test-method status="PASS" signature="LogIn1()[pri:0, instance:demoTest.LogIn@dfd3711]" name="LogIn1" duration-ms="4918" started-at="2017-08-13T11:35:00Z" finished-at="2017-08-13T11:35:05Z">
+        <test-method status="PASS" signature="LogIn1()[pri:0, instance:demoTest.LogIn@42d3bd8b]" name="LogIn1" duration-ms="4910" started-at="2017-08-13T11:59:29Z" finished-at="2017-08-13T11:59:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogIn1 -->
       </class> <!-- demoTest.LogIn -->
       <class name="demoTest.LogIn2">
-        <test-method status="PASS" signature="LogIn1()[pri:0, instance:demoTest.LogIn2@5f2050f6]" name="LogIn1" duration-ms="4025" started-at="2017-08-13T11:35:05Z" finished-at="2017-08-13T11:35:09Z">
+        <test-method status="PASS" signature="LogIn1()[pri:0, instance:demoTest.LogIn2@3b81a1bc]" name="LogIn1" duration-ms="3894" started-at="2017-08-13T11:59:34Z" finished-at="2017-08-13T11:59:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogIn1 -->
       </class> <!-- demoTest.LogIn2 -->
       <class name="demoTest.LogIn3">
-        <test-method status="PASS" signature="LogIn1()[pri:0, instance:demoTest.LogIn3@3b81a1bc]" name="LogIn1" duration-ms="4034" started-at="2017-08-13T11:35:09Z" finished-at="2017-08-13T11:35:13Z">
+        <test-method status="PASS" signature="LogIn1()[pri:0, instance:demoTest.LogIn3@64616ca2]" name="LogIn1" duration-ms="4042" started-at="2017-08-13T11:59:37Z" finished-at="2017-08-13T11:59:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogIn1 -->
