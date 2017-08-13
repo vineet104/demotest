@@ -16,7 +16,7 @@ public class LogIn2
 	@Test
 	public void LogIn1() throws IOException
 	{   Properties prop = new Properties();
-		FileInputStream fis = new FileInputStream("C:\\Users\\Alka\\workspace2\\Demo\\src\\login_details.properties");
+		FileInputStream fis = new FileInputStream("C:\\Users\\Alka\\git\\demotest\\Demo\\src\\login_details.properties");
 		prop.load(fis);
 		
 		if(prop.getProperty("Browser").contains("firefox"))
