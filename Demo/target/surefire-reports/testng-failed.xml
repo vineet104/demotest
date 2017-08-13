@@ -13,11 +13,6 @@
           <include name="LogIn1"/>
         </methods>
       </class> <!-- demoTest.LogIn3 -->
-      <class name="demoTest.LogIn">
-        <methods>
-          <include name="LogIn1"/>
-        </methods>
-      </class> <!-- demoTest.LogIn -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
