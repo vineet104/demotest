@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 //import org.testng.annotations.Test;
 
 public class LogIn 
-{ public WebDriver driver= null;
+{  WebDriver driver= null;
 	
 	@Test
 	public void LogIn1() throws IOException
