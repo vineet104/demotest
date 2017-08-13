@@ -21,7 +21,7 @@ public class LogIn2
 		prop.load(fis);
 		
 		if(prop.getProperty("Browser").contains("firefox"))
-		{
+		{    System.setProperty("webdriver.gecko.driver","C:\\Users\\Alka\\seljen\\seljen\\drivers\\geckodriver.exe");
 			driver = new FirefoxDriver();
 		}
 		else if(prop.getProperty("Browser").contains("chrome"))
